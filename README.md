@@ -14,7 +14,7 @@ Official desktop releases of **Gemora** for Windows and Linux.
 ![Windows](https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square&logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-x64-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-[Website](https://gemora.app) · [Open Gemora](https://chat.gemora.app) · [Download Latest Release](https://github.com/khauet21/gemora-releases/releases/latest)
+[Website](https://gemora.app) · [Open Gemora](https://chat.gemora.app) · [Download Latest Release]([https://github.com/khauet21/gemora-releases/releases/latest](https://github.com/khaiuet21/gemora-releases/releases/tag/v0.2.0))
 
 </div>
 
